@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="variable"/>
+  <qresource prefix="integrantes">
+    <file>Imagenes/cristobal.jpg</file>
+    <file>Imagenes/pavel.jpg</file>
+    <file>Imagenes/poncho.jpg</file>
+    <file>Imagenes/adan.jpg</file>
+  </qresource>
+  <qresource prefix="logos">
+    <file>Imagenes/logoCT.png</file>
+    <file>Imagenes/logo uat y fit.png</file>
+    <file>Imagenes/logo fit.png</file>
+    <file>Imagenes/logo uat.png</file>
+    <file>Imagenes/logo.jpg</file>
+  </qresource>
+</RCC>
