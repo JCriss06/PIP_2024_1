@@ -3,7 +3,7 @@ import numpy as np
 from scipy import stats as st
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "Proyecto_EstadísticaDescriptiva.ui"  # Nombre del archivo aquí.
+qtCreatorFile = "Proyecto_EstadísticaDescriptiva.ui"
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
 class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):

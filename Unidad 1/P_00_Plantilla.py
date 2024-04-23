@@ -1,7 +1,8 @@
 import sys
 from PyQt5 import uic, QtWidgets
-qtCreatorFile = "P_00_Plantilla.ui"  # Nombre del archivo aquí.
-Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
+
+# qtCreatorFile = "P_00_Plantilla.ui"  # Nombre del archivo aquí.
+# Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
 class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
