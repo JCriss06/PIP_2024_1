@@ -22,7 +22,7 @@ void loop() {
       Serial.println("Equivalente en binario: " + binario);
 
       for (int i = 0; i < 8; i++) {
-        //bitread(numero que queremos representar, posicion del bit que queremos leer)
+        //bitread(numero que queremos representar, posicion del bit que queremos leer
         digitalWrite(leds[i], bitRead(number, 7 - i));
       }
     } else {

@@ -2,6 +2,7 @@ int led[] = { 2, 3, 4 };
 int parpadeo[] = { HIGH, LOW, HIGH, LOW, HIGH, LOW, HIGH, LOW };
 
 
+
 void setup() {
   // put your setup code here, to run once:
   for (int i = 0; i < 3; i++) {

@@ -7,22 +7,17 @@
     <list default="true" id="19342eea-3df3-4e3b-a56c-6cd2c755bd17" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 1/P_00_Plantilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 1/P_00_Plantilla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 1/Proyecto_EstadísticaDescriptiva.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 1/Proyecto_EstadísticaDescriptiva.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_00_Plantilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/P0_EjemploImagenes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_0_EjemploImagen.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_1_Ejerciciologos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/P1_DescripcionImagen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_1_Ejerciciologos.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_1_SeleccionEquipo.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_2_SeleccionEquipo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_3_ComboBox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/P3_ComboBox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_3_ComboBox.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_4_Dialog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/P4_Dial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_4_Dialog.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_5_VerticalSliderui.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_6_HorizontalSlider.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/P_7_CambiarColorr.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/recursos_rc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/recursos_rc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos_rc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/DecimalABinario/DecimalABinario.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 4/Arduino/DecimalABinario/DecimalABinario.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/FuncionamientoDeSemaforo/FuncionamientoDeSemaforo.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 4/Arduino/FuncionamientoDeSemaforo/FuncionamientoDeSemaforo.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/LDR/LDR.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/LetrasEnASCII/LetrasEnASCII.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 4/Arduino/LetrasEnASCII/LetrasEnASCII.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/P_18/P_18.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/P_19/P_19.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/P_20/P_20.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Arduino/Vumetro/Vumetro.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 4/Arduino/Vumetro/Vumetro.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Python/P1_Poneralgo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Python/P22_insertar.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 4/Python/hola.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 4/Python/P21_InterfazConexionArduino.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +60,15 @@
       <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 4\Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\Graficacion" />
       <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\Ejercicios" />
       <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\Ejercicios\E_08_Vinicultores" />
       <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\Ejercicios\E_09_ViajeDeEstudios" />
       <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\TranspasoInfoVentanas\Ejemplo 2" />
-      <recent name="C:\Users\fatim\Documents\PIP_2024_1\Unidad 3\TranspasoInfoVentanas\Ejemplo 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Principal">
-    <configuration name="Ahorcado (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.P4_AL_EvaluadorInstancias">
+    <configuration name="P1_IntroNumpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PI-2024" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 2/Ahorcado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal/P1_IntroNumpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ahorcado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P2_MatrizInversa_a_utilizar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PI-2024" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\fatim\Documents\PIP_2024_1\Unidad 2\Ahorcado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal/P2_MatrizInversa_a_utilizar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Principal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P3_Asociador_Lineal_Gral" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PI-2024" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Ejercicios/Principal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal/P3_Asociador_Lineal_Gral.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RelojConAlarma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P4_AL_EvaluadorInstancias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PI-2024" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 2/RelojConAlarma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Asociador_Lineal/P4_AL_EvaluadorInstancias.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P4_Ejecuta_GraficacionCompleto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PI-2024" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 4/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidad 3/Graficacion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 4/Python/hola.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidad 3/Graficacion/P4_Ejecuta_GraficacionCompleto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Principal" />
-        <item itemvalue="Python.RelojConAlarma" />
-        <item itemvalue="Python.Ahorcado (1)" />
-        <item itemvalue="Python.AhorcadoiwithUI" />
-        <item itemvalue="Python.hola" />
+        <item itemvalue="Python.P4_AL_EvaluadorInstancias" />
+        <item itemvalue="Python.P3_Asociador_Lineal_Gral" />
+        <item itemvalue="Python.P2_MatrizInversa_a_utilizar" />
+        <item itemvalue="Python.P1_IntroNumpy" />
+        <item itemvalue="Python.P4_Ejecuta_GraficacionCompleto" />
       </list>
     </recent_temporary>
   </component>
